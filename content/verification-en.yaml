@@ -1,13 +1,16 @@
 modal_title: 'Confirm Your Age'
 modal_subtitle: 'SWAG Age Verification'
-modal_section_title: 'Enjoy Exclusive Content Experience'
+modal_section_title: 'Enter the Digital Content Platform'
 modal_text: |
-  SWAG is the largest creative platform in Asia, offering high-quality live interaction and private content experiences exclusively for adult users. Our platform brings together a wide range of talented creators to provide diverse entertainment content, allowing you to connect closely with your favorite creators. The platform has a strict content review system in place to ensure all materials comply with legal regulations, creating a safe and high-quality environment for our users.
+  SWAG is a compliant digital content platform available exclusively to users who have reached the legal age of majority. The platform brings together top creators and offers diverse digital content through a robust age-verification and content-review system, ensuring that all services meet applicable regulations and provide a safe, compliant environment for users.
 modal_legal: |
   <strong>Legal Notice:</strong><br>
-  This service complies with Article 12 of the Civil Code of the Republic of China and related regulations<br>
-  Conforms to iWIN Internet Content Rating and Filtering standards<br>
-  Protection mechanisms established in accordance with Article 46 of the Children and Youth Welfare and Rights Protection Act<br>
-  <span style="color:#ff2d7a;font-weight:bold;">Entry prohibited for persons under 18 years of age</span> | <a href="terms.html">Terms of Use</a> | <a href="privacy.html">Privacy Policy</a> | <a href="2257.html">2257</a>
-btn_enter: 'I am 18 or older, enter SWAG'
-btn_leave: 'Leave Website'
+  This service operates under Article&nbsp;12 of the Civil Code of the Republic of China (Taiwan).<br>
+  Complies with the iWIN online content protection guidelines.<br>
+  Implements safeguards pursuant to Article&nbsp;46 of the Children and Youth Welfare and Rights Act.<br>
+  <span style="color:#00D2BE;font-weight:bold;">If you are under 18, please leave this site.</span> |
+  <a href="terms.html">Terms of Service</a> |
+  <a href="privacy.html">Privacy Policy</a> |
+  <a href="2257.html">Compliance Statement</a>
+btn_enter: 'I am 18 or older — Enter Platform'
+btn_leave: 'Exit'
